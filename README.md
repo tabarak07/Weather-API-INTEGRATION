@@ -62,3 +62,7 @@ Click the "Get Weather" button.
 The current weather information for the specified city will be displayed below the form.
 Conclusion
 The Weather App is a straightforward yet effective tool for checking the weather. It demonstrates the use of modern web technologies and best practices in web development. Users can easily interact with the app to get real-time weather updates, making it a valuable resource for anyone looking to stay informed about weather conditions. The project can be further enhanced by adding features such as a 5-day forecast, user location detection, or saving favorite cities for quick access.
+
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/b7e3c9e7-fafa-4004-8ca0-39f520449043)
